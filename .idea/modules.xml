@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo_protobuf_simple.iml" filepath="$PROJECT_DIR$/demo_protobuf_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo_android_protobuf_simple.iml" filepath="$PROJECT_DIR$/.idea/demo_android_protobuf_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/demo_android_protobuf_simple.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/demo_android_protobuf_simple.app.iml" />
     </modules>
   </component>
 </project>
